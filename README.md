@@ -1,0 +1,2 @@
+# nmerge
+merge n files 
